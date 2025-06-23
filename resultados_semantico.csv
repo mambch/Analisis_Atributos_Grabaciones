@@ -1,0 +1,32 @@
+speaker,start,end,duracion,es_pregunta,es_respuesta,interrupcion,emocion_detectada,palabras_clave_detectadas,indice_legibilidad,num_repeticiones,conectores_usados,uso_excesivo_conectores
+SPEAKER_00,7.66,11.74,4.08,False,False,False,neutra,,,0,,False
+SPEAKER_01,10.12,10.75,0.63,False,False,True,neutra,,,0,,False
+SPEAKER_01,12.3,12.91,0.61,False,False,False,neutra,,,0,,False
+SPEAKER_00,13.21,18.71,5.5,False,False,False,neutra,,,0,,False
+SPEAKER_01,19.37,20.89,1.52,False,False,False,neutra,,,0,,False
+SPEAKER_00,20.42,156.88,136.46,True,False,True,positiva,"accidentes personales, ahorro, telemedicina, beneficios, cobertura, certificado, descuento, portal, cliente",88.978505678422,52,"bueno, también, además, así que, por eso, o sea",True
+SPEAKER_01,43.26,43.57,0.31,False,False,True,neutra,,,0,,False
+SPEAKER_01,64.21,64.81,0.6,False,False,False,neutra,,,0,,False
+SPEAKER_01,135.62,136.06,0.44,False,False,False,neutra,,,0,,False
+SPEAKER_01,157.07,165.05,7.98,False,False,False,positiva,portal,97.25324074074074,9,"también, claro",False
+SPEAKER_01,165.81,165.84,0.03,False,False,False,neutra,,,0,,False
+SPEAKER_00,165.84,172.9,7.06,False,False,False,neutra,,,0,,False
+SPEAKER_01,172.21,174.32,2.11,False,False,True,neutra,,,0,,False
+SPEAKER_00,173.91,264.85,90.94,True,False,True,positiva,"telemedicina, cobertura, descuento",74.96598870056498,25,"bueno, también, además, así que",True
+SPEAKER_01,234.53,235.12,0.59,False,False,True,neutra,,,0,,False
+SPEAKER_01,239.54,239.76,0.22,False,False,False,neutra,,,0,,False
+SPEAKER_01,244.63,245.76,1.13,False,False,False,neutra,,,0,,False
+SPEAKER_01,265.34,266.32,0.98,False,False,False,neutra,,,0,,False
+SPEAKER_00,266.4,270.22,3.82,True,True,False,positiva,,110.12155056179775,7,entonces,False
+SPEAKER_01,270.82,272.44,1.62,False,False,False,neutra,,,0,,False
+SPEAKER_00,272.66,275.04,2.38,False,False,False,neutra,,,0,,False
+SPEAKER_01,275.9,277.89,1.99,False,False,False,neutra,,,0,,False
+SPEAKER_00,277.14,281.56,4.42,False,False,True,neutra,,,0,,False
+SPEAKER_01,282.01,283.95,1.94,False,False,False,neutra,,,0,,False
+SPEAKER_00,284.49,324.23,39.74,False,True,False,positiva,"cobertura, poliza, descuento, cliente",68.17529411764707,11,"entonces, también",False
+SPEAKER_01,321.9,322.01,0.11,False,False,True,neutra,,,0,,False
+SPEAKER_01,324.4,325.47,1.07,False,False,False,neutra,,,0,,False
+SPEAKER_00,325.35,342.02,16.67,False,False,True,negativa,"accidentes personales, ahorro, telemedicina",93.90795081967212,3,entonces,False
+SPEAKER_01,342.56,344.38,1.82,False,False,False,neutra,,,0,,False
+SPEAKER_00,343.54,376.97,33.43,False,False,True,positiva,cliente,89.89978947368422,6,,False
+SPEAKER_01,375.16,378.52,3.36,False,False,True,neutra,,,0,,False
