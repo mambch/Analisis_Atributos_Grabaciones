@@ -1,0 +1,14 @@
+# Entorno virtual
+.venv/
+
+# Archivos temporales
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de datos generados
+*.csv
+*.json
+*.pdf
+salidas/
